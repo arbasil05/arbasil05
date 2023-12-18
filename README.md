@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arbasil05
-- 👀 I’m interested in MAchine learning and computer visions
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently HTML,CSS,Javascript and django
+- 💞️ I’m looking to collaborate on any web dev projects as an intern
+- 📫 You can reach on LinkedIn
 
 <!---
 arbasil05/arbasil05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
