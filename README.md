@@ -6,6 +6,6 @@
   - Django  
   - MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - 💞️ Open to collaborate on **web development projects** or internships  
-- 📫 Reach me on [LinkedIn](your-linkedin-url)  
+
 
 ✨ Eager to keep learning and improving as a developer!
